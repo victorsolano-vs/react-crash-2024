@@ -1,9 +1,9 @@
 // import React from 'react'
-import Navbar from "./components/Navbar.jsx"
-import Hero from "./components/Hero.jsx"
-import HomeCards from "./components/HomeCards.jsx"
-import JobListings from "./components/JobListings.jsx"
-import ViewAllJobs from "./components/ViewAllJobs.jsx"
+import Navbar from "./components/Navbar"
+import Hero from "./components/Hero"
+import HomeCards from "./components/HomeCards"
+import JobListings from "./components/JobListings"
+import ViewAllJobs from "./components/ViewAllJobs"
 
 const App = () => {
   return (
